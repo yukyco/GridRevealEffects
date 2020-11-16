@@ -12,7 +12,7 @@ Some experiments with the new staggering system of Anime.js where we try differe
 
 - [anime.js](http://animejs.com/) by Julian Garnier
 - [imagesLoaded](https://imagesloaded.desandro.com/) by Dave DeSandro
-- Images from [Unsplash.com](https://unsplash.com/)
+- Images from [Unsplash.com](https://unsplash.com/) Forked from free image 
 
 
 ## License
